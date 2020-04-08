@@ -1,6 +1,6 @@
 # VRforChildrenwithDisabilities
 
-Project for uttilizing Oculus VR and UNIX in creating a virtual reality platform for teaching 3D Mathematics to Children on the Autism spectrum
+Project for uttilizing Oculus VR and Unity in creating a virtual reality platform for teaching 3D Mathematics to Children on the Autism spectrum
 
 There are three parts to the project:
   1. Creating 3D objects in Render to be imported to the environment
